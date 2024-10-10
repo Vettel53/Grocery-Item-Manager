@@ -1,4 +1,4 @@
-# GROCERY ITEM MANAGER IN JAVA
+# Grocery Item Manager written in Java
 
 This simple program is written in Java and allows the user to add, remove, and check off items from their grocery list.
 
